@@ -1,0 +1,5 @@
+/home/santigo/Documents/experimentos-csharp/mono_dev_prueba/Probando_monodev/Probando_monodev/bin/Debug/Probando_monodev.exe
+/home/santigo/Documents/experimentos-csharp/mono_dev_prueba/Probando_monodev/Probando_monodev/bin/Debug/Probando_monodev.pdb
+/home/santigo/Documents/experimentos-csharp/mono_dev_prueba/Probando_monodev/Probando_monodev/obj/x86/Debug/Probando_monodev.csprojAssemblyReference.cache
+/home/santigo/Documents/experimentos-csharp/mono_dev_prueba/Probando_monodev/Probando_monodev/obj/x86/Debug/Probando_monodev.exe
+/home/santigo/Documents/experimentos-csharp/mono_dev_prueba/Probando_monodev/Probando_monodev/obj/x86/Debug/Probando_monodev.pdb
